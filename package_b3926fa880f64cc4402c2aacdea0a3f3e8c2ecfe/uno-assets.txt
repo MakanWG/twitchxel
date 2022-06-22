@@ -1,2 +1,3 @@
 Assets/SplashScreen.png
+Assets/wg_gold_400_nobg.png
 Assets/SharedAssets.md
